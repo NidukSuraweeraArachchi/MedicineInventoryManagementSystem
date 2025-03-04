@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\MedicineInventoryManagementSystem\MedicineInventoryManagementSystem\bin\Debug\net9.0\MedicineInventoryManagementSystem.exe
+C:\Users\ASUS\source\repos\MedicineInventoryManagementSystem\MedicineInventoryManagementSystem\bin\Debug\net9.0\MedicineInventoryManagementSystem.deps.json
+C:\Users\ASUS\source\repos\MedicineInventoryManagementSystem\MedicineInventoryManagementSystem\bin\Debug\net9.0\MedicineInventoryManagementSystem.runtimeconfig.json
+C:\Users\ASUS\source\repos\MedicineInventoryManagementSystem\MedicineInventoryManagementSystem\bin\Debug\net9.0\MedicineInventoryManagementSystem.dll
+C:\Users\ASUS\source\repos\MedicineInventoryManagementSystem\MedicineInventoryManagementSystem\bin\Debug\net9.0\MedicineInventoryManagementSystem.pdb
+C:\Users\ASUS\source\repos\MedicineInventoryManagementSystem\MedicineInventoryManagementSystem\obj\Debug\net9.0\MedicineInventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\MedicineInventoryManagementSystem\MedicineInventoryManagementSystem\obj\Debug\net9.0\MedicineInventoryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\MedicineInventoryManagementSystem\MedicineInventoryManagementSystem\obj\Debug\net9.0\MedicineInventoryManagementSystem.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\MedicineInventoryManagementSystem\MedicineInventoryManagementSystem\obj\Debug\net9.0\MedicineInventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\MedicineInventoryManagementSystem\MedicineInventoryManagementSystem\obj\Debug\net9.0\MedicineInventoryManagementSystem.dll
+C:\Users\ASUS\source\repos\MedicineInventoryManagementSystem\MedicineInventoryManagementSystem\obj\Debug\net9.0\refint\MedicineInventoryManagementSystem.dll
+C:\Users\ASUS\source\repos\MedicineInventoryManagementSystem\MedicineInventoryManagementSystem\obj\Debug\net9.0\MedicineInventoryManagementSystem.pdb
+C:\Users\ASUS\source\repos\MedicineInventoryManagementSystem\MedicineInventoryManagementSystem\obj\Debug\net9.0\MedicineInventoryManagementSystem.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\MedicineInventoryManagementSystem\MedicineInventoryManagementSystem\obj\Debug\net9.0\ref\MedicineInventoryManagementSystem.dll
